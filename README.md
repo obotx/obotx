@@ -1,6 +1,6 @@
 ![gluten_robotx](https://github.com/obotx/open-source-robotics/assets/168444623/459bbd07-60bb-4f64-9e7e-851b94eba2c6)
 
-
+[Robotic DYI arm](https://github.com/obotx/diy-robot-arm)
 
 ## Estimated cost: $3 999
 - versus about $350 000 of actual constructions
@@ -70,3 +70,5 @@ For more information on:
 - cooperation options
  
 please write: <br> openrobotx@gmail.com </br> https://x.com/open_robotx
+
+[Robotic DYI arm](https://github.com/obotx/diy-robot-arm)
