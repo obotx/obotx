@@ -61,6 +61,8 @@ The latest global estimates indicate that the number of children in child labour
 - surprises :)
 - ObotX shares for sponshorship above $100k
 - and others
+![image](https://github.com/user-attachments/assets/664651f7-27b4-443a-8528-00bfb1aa0620)
+
 
 Are you a corporation and would you like to add your logo here? 
 
